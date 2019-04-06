@@ -1,3 +1,16 @@
+---
+layout: post
+title: '标题'
+subtitle: '副标题'
+date: 2019-04-18
+categories: 类别
+cover: 'http://.jpg'
+tags: 标签
+---
+
+正文
+
+
 ## jekyll-theme-H2O
 
 基于Jekyll的博客主题模板，简洁轻量。
